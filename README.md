@@ -4,7 +4,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=utsavbusa&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
-<img align="right" alt="coding" width="400" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/utsavbusa/utsavbusa/main/Static%20website-amico.png">
 
 - 🔭 I’m currently working on **Akhilam**
 
