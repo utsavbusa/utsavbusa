@@ -6,10 +6,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=utsavbusa&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/utsavbusa/utsavbusa/main/Static%20website-amico.png">
 
-- 🔭 I’m currently working on [Akhilam](https://akhilaminterio.com)
-
-- 🌱 I’m currently learning **Node.js**
-
 - 👨‍💻 All of my projects are available at [https://github.com/utsavbusa/utsavbusa](https://github.com/utsavbusa/utsavbusa)
 
 - 💬 Ask me about **react**
